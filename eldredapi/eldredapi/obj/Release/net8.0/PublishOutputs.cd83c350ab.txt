@@ -1,0 +1,11 @@
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\eldredapi.exe
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\eldredapi.dll
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\eldredapi.deps.json
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\eldredapi.runtimeconfig.json
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\eldredapi.pdb
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ja\Cloud\APIM\eldredapi\eldredapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
